@@ -6,7 +6,7 @@ A small library for interfacing with the [GeomRel](https://github.com/K2017/Geom
 
 With CMake: Simply clone the repository and add a call to `add_subdirectory(path/to/repo)` to have access to the header files in your project.
 
-Without CMake: add the header files directly to your include directory. Or your sources if you're so inclined.
+Without CMake: add the header files directly to your include directory. Or your sources if that's your thing.
 
 In either case you can import the library using `#include<STTUtil>`
 
