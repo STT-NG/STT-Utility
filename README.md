@@ -1,6 +1,6 @@
 # STTUtil
 
-A small library for interfacing with the GeomRel library. Adds support for ingesting geometry descriptions from various straw-tube trackers.
+A small library for interfacing with the [GeomRel](https://github.com/K2017/GeomRel) library. Adds support for ingesting geometry descriptions from various straw-tube trackers.
 
 ## Usage
 
