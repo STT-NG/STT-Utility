@@ -4,7 +4,9 @@ A small library for interfacing with the GeomRel library. Adds support for inges
 
 ## Usage
 
-With CMake: Simply clone the repository and call `addsubdirectory(path/to/repo)` to have access to the header files in your project.
+With CMake: Simply clone the repository and add a call to `add_subdirectory(path/to/repo)` to have access to the header files in your project.
+
+Without CMake: add the header files directly to your include directory. Or your sources if you're so inclined.
 
 ## Extending The Library
 
